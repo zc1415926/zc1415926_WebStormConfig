@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	logallrefupdates = false
+[remote "origin"]
+	url = https://github.com/zc1415926/zc1415926_WebStorm_Setting.git
+	fetch = +refs/heads/master:refs/remotes/origin/master
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

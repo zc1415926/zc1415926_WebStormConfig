@@ -1,0 +1,190 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JSDebugConfig">
+      <project id="poolApp_frontend" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1452486473634" />
+    </group>
+    <group name="php-interpreters">
+      <project id="LearnsiteHelper" values="1" collectionTime="1451462232398" />
+      <project id="AuthTodo" values="1" collectionTime="1451543807427" />
+      <project id="learnsitebridge" values="0" collectionTime="1451348942137" />
+    </group>
+    <group name="vcs">
+      <project id="LearnsiteHelper" values="Git" collectionTime="1451462231744" />
+      <project id="AuthTodo" values="Git" collectionTime="1451872870776" />
+      <project id="learnsitebridge" values="Git" collectionTime="1451348941170" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="AuthTodo_frontend" values="node_modules" collectionTime="1452476739208" />
+      <project id="HelloAngular2" values="node_modules" collectionTime="1459410965224" />
+      <project id="ReactFluxExercise" values="node_modules" collectionTime="1457942216547" />
+      <project id="ExcelHelper" values="node_modules" collectionTime="1459384438727" />
+      <project id="BuildAppsReactFlux" values="node_modules" collectionTime="1458283159019" />
+      <project id="HelloElectron" values="node_modules" collectionTime="1458627654478" />
+      <project id="sidenav" values="node_modules" collectionTime="1452585054889" />
+      <project id="studyangular-front" values="node_modules" collectionTime="1452820224008" />
+      <project id="uiRouterTips" values="node_modules" collectionTime="1452476736303" />
+      <project id="HelloNodeXlsx" values="node_modules" collectionTime="1456124775274" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="poolApp_frontend" values="JavascriptDebugType" collectionTime="1452486473421" />
+    </group>
+    <group name="file-type">
+      <project id="ReactFluxExercise" values="XML,JSON,HTML,JavaScript,UNKNOWN,PLAIN_TEXT" collectionTime="1457942216546" />
+      <project id="learning-react-getting-started-and-concepts" values="UNKNOWN,JavaScript,HTML,XML,PLAIN_TEXT" collectionTime="1452829399864" />
+      <project id="uiRouter" values="HTML,PLAIN_TEXT,UNKNOWN,JavaScript,XML" collectionTime="1452585056532" />
+      <project id="learnsitebridge" values="UNKNOWN,PLAIN_TEXT,PHAR,Blade,XML,JSON,PHP,htaccess" collectionTime="1451348941196" />
+      <project id="AuthTodo_frontend" values="UNKNOWN,JSON,XML,JavaScript,PLAIN_TEXT,ARCHIVE,HTML" collectionTime="1452476739205" />
+      <project id="sidenav" values="PLAIN_TEXT,JavaScript,SourceMap,SCSS,UNKNOWN,HTML,JSON,CSS,XML" collectionTime="1452585054842" />
+      <project id="poolApp_frontend" values="PLAIN_TEXT,UNKNOWN,XML,JavaScript,HTML" collectionTime="1452486473453" />
+      <project id="BuildAppsReactFlux" values="PLAIN_TEXT,HTML,JavaScript,JSON,Images,CSS" collectionTime="1458283159019" />
+      <project id="studyangular-front" values="SCSS,XML,UNKNOWN,JavaScript,CSS,HTML,JSON,PLAIN_TEXT" collectionTime="1452820223961" />
+      <project id="HelloElectron" values="UNKNOWN,PLAIN_TEXT,HTML,Native,JSON,CSS,XML,JavaScript" collectionTime="1458627654475" />
+      <project id="ReactTutor" values="UNKNOWN,HTML,JavaScript,XML,PLAIN_TEXT,JSON" collectionTime="1452823390938" />
+      <project id="AuthTodo" values="JSHint,PLAIN_TEXT,Images,CSS,Less,SourceMap,HTML,YAML,XML,TypeScript,JavaScript,UNKNOWN,SCSS,JSON" collectionTime="1451872870792" />
+      <project id="ExcelHelper" values="Native,PLAIN_TEXT,JavaScript,JSON" collectionTime="1459384438721" />
+      <project id="angular2-http-demo" values="CSS,ESLint,XML,HTML,UNKNOWN,Images,TypeScript,JavaScript,PLAIN_TEXT,JSON,SourceMap,JSHint,JSCS" collectionTime="1459410968991" />
+      <project id="HelloNodeXlsx" values="JavaScript,JSON,PLAIN_TEXT,XML,UNKNOWN,Native" collectionTime="1456124775238" />
+      <project id="HelloAngular2" values="CSS,JSON,SourceMap,PLAIN_TEXT,TypeScript,JavaScript,HTML" collectionTime="1459410965188" />
+      <project id="LearnsiteHelper" values="htaccess,XML,JSON,YAML,Blade,PLAIN_TEXT,JavaScript,SCSS,UNKNOWN,Images,PHP,PHAR" collectionTime="1451462231771" />
+      <project id="ElectronExcelHelper" values="PLAIN_TEXT,XML,HTML,C++,CSS,UNKNOWN,JSCS,ESLint,JavaScript,PATCH,Images,JSHint,JSON,SourceMap" collectionTime="1458626500405" />
+      <project id="uiRouterTips" values="JavaScript,Images,JSCS,XML,HTML,JSHint,SCSS,JSON,PLAIN_TEXT,UNKNOWN" collectionTime="1452476736199" />
+      <project id="public" values="UNKNOWN,HTML,JSCS,SourceMap,XML,PLAIN_TEXT,JavaScript,Images,JSON,CSS,JSHint" collectionTime="1452735235452" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="LearnsiteHelper" values="0" collectionTime="1451462232406" />
+      <project id="AuthTodo" values="0" collectionTime="1451543807459" />
+      <project id="learnsitebridge" values="0" collectionTime="1451348942189" />
+    </group>
+    <group name="php-interpreter-version">
+      <project id="LearnsiteHelper" values="not installed" collectionTime="1451462232398" />
+      <project id="AuthTodo" values="5.5.26" collectionTime="1451543807427" />
+      <project id="learnsitebridge" values="not installed" collectionTime="1451348942118" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="AuthTodo" values="xdebug" collectionTime="1451543807451" />
+    </group>
+    <group name="deployment server">
+      <project id="AuthTodo_frontend" values="SFTP" collectionTime="1452476739208" />
+      <project id="AuthTodo" values="FTP" collectionTime="1451872871318" />
+      <project id="LearnsiteHelper" values="SFTP" collectionTime="1451462232379" />
+      <project id="learnsitebridge" values="FTP,SFTP" collectionTime="1451348942104" />
+    </group>
+    <group name="module type">
+      <project id="ReactFluxExercise" values="WEB_MODULE" collectionTime="1457942216542" />
+      <project id="learning-react-getting-started-and-concepts" values="WEB_MODULE" collectionTime="1452829399862" />
+      <project id="uiRouter" values="WEB_MODULE" collectionTime="1452585056532" />
+      <project id="learnsitebridge" values="WEB_MODULE" collectionTime="1451348941171" />
+      <project id="AuthTodo_frontend" values="WEB_MODULE" collectionTime="1452476739203" />
+      <project id="sidenav" values="WEB_MODULE" collectionTime="1452585054827" />
+      <project id="poolApp_frontend" values="WEB_MODULE" collectionTime="1452486473420" />
+      <project id="BuildAppsReactFlux" values="WEB_MODULE" collectionTime="1458283158995" />
+      <project id="studyangular-front" values="WEB_MODULE" collectionTime="1452820223933" />
+      <project id="HelloElectron" values="WEB_MODULE" collectionTime="1458627654466" />
+      <project id="ReactTutor" values="WEB_MODULE" collectionTime="1452823390937" />
+      <project id="AuthTodo" values="WEB_MODULE" collectionTime="1451872870777" />
+      <project id="ExcelHelper" values="WEB_MODULE" collectionTime="1459384438693" />
+      <project id="angular2-http-demo" values="WEB_MODULE" collectionTime="1459410968991" />
+      <project id="HelloNodeXlsx" values="WEB_MODULE" collectionTime="1456124775100" />
+      <project id="HelloAngular2" values="WEB_MODULE" collectionTime="1459410965179" />
+      <project id="LearnsiteHelper" values="WEB_MODULE" collectionTime="1451462231744" />
+      <project id="ElectronExcelHelper" values="WEB_MODULE" collectionTime="1458626499063" />
+      <project id="uiRouterTips" values="WEB_MODULE" collectionTime="1452476736169" />
+      <project id="public" values="WEB_MODULE" collectionTime="1452735235410" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="ReactFluxExercise" values="ECMAScript 5.1" collectionTime="1457942216547" />
+      <project id="learning-react-getting-started-and-concepts" values="JSX Harmony" collectionTime="1452829399865" />
+      <project id="uiRouter" values="JSX Harmony" collectionTime="1452585056548" />
+      <project id="learnsitebridge" values="ECMAScript 5.1" collectionTime="1451348942105" />
+      <project id="AuthTodo_frontend" values="ECMAScript 5.1" collectionTime="1452476739208" />
+      <project id="sidenav" values="ECMAScript 5.1" collectionTime="1452585054889" />
+      <project id="poolApp_frontend" values="ECMAScript 5.1" collectionTime="1452486473519" />
+      <project id="BuildAppsReactFlux" values="JSX Harmony" collectionTime="1458283159019" />
+      <project id="studyangular-front" values="ECMAScript 5.1" collectionTime="1452820224008" />
+      <project id="HelloElectron" values="JSX Harmony" collectionTime="1458627654478" />
+      <project id="ReactTutor" values="JSX Harmony" collectionTime="1452823390938" />
+      <project id="AuthTodo" values="ECMAScript 5.1" collectionTime="1451872871318" />
+      <project id="ExcelHelper" values="ECMAScript 5.1" collectionTime="1459384438727" />
+      <project id="angular2-http-demo" values="ECMAScript 5.1" collectionTime="1459410968992" />
+      <project id="HelloNodeXlsx" values="ECMAScript 5.1" collectionTime="1456124775274" />
+      <project id="HelloAngular2" values="ECMAScript 5.1" collectionTime="1459410965224" />
+      <project id="LearnsiteHelper" values="ECMAScript 5.1" collectionTime="1451462232379" />
+      <project id="ElectronExcelHelper" values="ECMAScript 5.1" collectionTime="1458626508867" />
+      <project id="uiRouterTips" values="ECMAScript 5.1" collectionTime="1452476736303" />
+      <project id="public" values="ECMAScript 5.1" collectionTime="1452735235496" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="ReactFluxExercise" values="Project,Project,Directory" collectionTime="1457942216547" />
+      <project id="learning-react-getting-started-and-concepts" values="Project,Project,Project" collectionTime="1452829399865" />
+      <project id="uiRouter" values="Project,Project,File,Project,Project,Project,File,Project" collectionTime="1452585056548" />
+      <project id="learnsitebridge" values="Project,Project" collectionTime="1451348942104" />
+      <project id="AuthTodo_frontend" values="Project,Directory,Project,Project,Project" collectionTime="1452476739208" />
+      <project id="sidenav" values="Project,Directory,Project" collectionTime="1452585054889" />
+      <project id="poolApp_frontend" values="Project,Project" collectionTime="1452486473519" />
+      <project id="BuildAppsReactFlux" values="Project,Project,Project,Directory" collectionTime="1458283159019" />
+      <project id="studyangular-front" values="Project,Project,Directory,Project,Project,Project,Project,Project,Project,Project" collectionTime="1452820224008" />
+      <project id="HelloElectron" values="Directory,Project,Project,Project,Project" collectionTime="1458627654478" />
+      <project id="ReactTutor" values="Project,Project,Project" collectionTime="1452823390938" />
+      <project id="AuthTodo" values="Project,Project" collectionTime="1451872871318" />
+      <project id="ExcelHelper" values="Project,Directory,Project" collectionTime="1459384438727" />
+      <project id="angular2-http-demo" values="Project,Project" collectionTime="1459410968992" />
+      <project id="HelloNodeXlsx" values="Project,Project,Directory" collectionTime="1456124775274" />
+      <project id="HelloAngular2" values="Directory,Project,Project" collectionTime="1459410965224" />
+      <project id="LearnsiteHelper" values="Project,Project" collectionTime="1451462232379" />
+      <project id="ElectronExcelHelper" values="Project,Project" collectionTime="1458626508867" />
+      <project id="uiRouterTips" values="Project,Directory,Project" collectionTime="1452476736303" />
+      <project id="public" values="Project,Project" collectionTime="1452735235496" />
+    </group>
+    <group name="Git">
+      <project id="LearnsiteHelper" values="data.local.branches.count.1,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.remotes.in.project.2+,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1451462231807" />
+      <project id="AuthTodo_frontend" values="config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1451967913447" />
+      <project id="AuthTodo" values="config.update.type.BRANCH_DEFAULT,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.1" collectionTime="1451872870826" />
+      <project id="learnsitebridge" values="data.remotes.in.project.0,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.DONT_SYNC,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.0,config.update.type.BRANCH_DEFAULT" collectionTime="1451348941231" />
+      <project id="HelloAngular2" values="config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT" collectionTime="1459385089800" />
+    </group>
+    <group name="php-servers">
+      <project id="LearnsiteHelper" values="0" collectionTime="1451462232398" />
+      <project id="AuthTodo" values="0" collectionTime="1451543807318" />
+      <project id="learnsitebridge" values="0" collectionTime="1451348942118" />
+    </group>
+    <group name="php-include-path">
+      <project id="LearnsiteHelper" values="53" collectionTime="1451462232380" />
+      <project id="AuthTodo" values="59" collectionTime="1451543807295" />
+      <project id="learnsitebridge" values="71" collectionTime="1451348942106" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="7" />
+      <entry feature="NewDirectoryProjectAction.Composer Project" count="2" />
+      <entry feature="NewDirectoryProjectAction.Empty Project" count="10" />
+      <entry feature="NewDirectoryProjectAction.Yeoman" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="24" />
+      <entry feature="OpenInBrowser.Internet Explorer" count="1" />
+      <entry feature="StripeButton[Favorites].hidden" count="1" />
+      <entry feature="execute.js.build_tools.grunt.Run" count="5" />
+      <entry feature="execute.js.build_tools.gulp.Run" count="29" />
+      <entry feature="ide.settings.Appearance" count="3" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="3" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Deployment" count="5" />
+      <entry feature="ide.settings.File_Watchers" count="1" />
+      <entry feature="ide.settings.Font" count="1" />
+      <entry feature="ide.settings.JSON" count="3" />
+      <entry feature="ide.settings.Keymap" count="3" />
+      <entry feature="ide.settings.Language_Defaults" count="7" />
+      <entry feature="ide.settings.Libraries" count="5" />
+      <entry feature="ide.settings.PHP" count="3" />
+      <entry feature="ide.settings.Plugins" count="7" />
+      <entry feature="ide.settings.Settings_Repository" count="3" />
+      <entry feature="ide.settings.System_Settings" count="1" />
+      <entry feature="ide.settings.Terminal" count="1" />
+      <entry feature="ideaapp.started" count="55" />
+      <entry feature="terminal.win" count="97" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+    </counts>
+  </component>
+</application>

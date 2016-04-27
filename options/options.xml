@@ -1,0 +1,30 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Web/WebstormProjects/angular2-http-demo&#10;D:/Web/WebstormProjects/ExcelHelper&#10;D:/Web/WebstormProjects/HelloElectron&#10;D:/Web/WebstormProjects/BuildAppsReactFlux&#10;D:/Web/WebstormProjects/ReactFluxExercise&#10;D:/Web/WebstormProjects&#10;D:/Web/WebstormProjects/studyangular-front/gulpfile.js&#10;D:/Web/WebstormProjects/studyangular-front&#10;F:/ZhangChuan/Desktop/temp/public/public&#10;D:/Web/PhpstormProjects/uiRouter&#10;E:/RailsInstaller/Ruby2.1.0/bin/sass.bat&#10;D:/Web/PhpstormProjects/sidenav&#10;C:/Windows/System32/WindowsPowerShell/v1.0/powershell.exe&#10;D:/Web/WebstormProjects/poolApp_frontend&#10;E:/Program Files/360/360Chrome/Chrome/Application/360chrome.exe&#10;F:/Downloads/Software/Web/php-5.5.26-nts-Win32-VC11-x64/php.exe&#10;D:/Web/PhpstormProjects&#10;D:/Web/PhpstormProjects/LearnsiteHelper&#10;D:/Web/PhpstormProjects/learnsitebridge" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="true" />
+    <property name="lastTip" value="50" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="selected.color.option.type" value="CONSOLE_SYSTEM_OUTPUT" />
+    <property name="ColorChooser.RecentColors" value="255-255-255-255,,,161-17-186-255,,,211-181-168-255,,,211-93-87-255,,,0-179-0-255,,,0-197-0-255,,,0-0-209-255,,,0-109-209-255" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="laravel/laravel" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="PLUGIN_FILTER" value="angular" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="KEYMAP" value="run&#10;gulp&#10;terminal" />
+    <property name="nodejs_interpreter_path" value="E:\Program Files\nodejs\node.exe" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="WebStorm.dumbRunEnabled" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+  </component>
+</application>

@@ -1,0 +1,22 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>../src/fonts</find>
+      <find>Alignment modifiers</find>
+      <find>user</find>
+      <find>reload</find>
+      <find>Header</find>
+      <find>class</find>
+      <find>jquery</find>
+      <find>bootstrap</find>
+      <find>jsFiles</find>
+      <find>homePage</find>
+      <find>弹出对话框</find>
+      <find>match</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>http://www.tulsayeti.com/fonts/proxima-nova/</replace>
+      <replace>className</replace>
+    </replaceStrings>
+  </component>
+</application>

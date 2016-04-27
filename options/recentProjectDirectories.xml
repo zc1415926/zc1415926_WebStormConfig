@@ -1,0 +1,258 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\Web\WebstormProjects\angular2-http-demo" />
+        <option value="D:\Web\WebstormProjects\HelloAngular2" />
+        <option value="D:\Web\WebstormProjects\ExcelHelper" />
+        <option value="D:\Web\WebstormProjects\ElectronExcelHelper" />
+        <option value="D:\Web\WebstormProjects\HelloElectron" />
+        <option value="D:\Web\WebstormProjects\BuildAppsReactFlux" />
+        <option value="D:\Web\WebstormProjects\ReactFluxExercise" />
+        <option value="D:\Web\WebstormProjects\learning-react-getting-started-and-concepts" />
+        <option value="D:\Web\PhpstormProjects\ReactTutor" />
+        <option value="D:\Web\WebstormProjects\studyangular-front" />
+        <option value="F:\ZhangChuan\Desktop\temp\public\public" />
+        <option value="D:\Web\PhpstormProjects\uiRouter" />
+        <option value="D:\Web\PhpstormProjects\sidenav" />
+        <option value="D:\Web\WebstormProjects\poolApp_frontend" />
+        <option value="D:\Web\PhpstormProjects\AuthTodo_frontend" />
+        <option value="D:\Web\PhpstormProjects\uiRouterTips" />
+        <option value="D:\Web\PhpstormProjects\AuthTodo" />
+        <option value="D:\Web\PhpstormProjects\LearnsiteHelper" />
+        <option value="D:\Web\PhpstormProjects\learnsitebridge" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\Web\WebstormProjects\angular2-http-demo" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\Web\WebstormProjects\angular2-http-demo" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\Web\PhpstormProjects\AuthTodo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1184" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1451872790214" />
+              <option name="buildTimestamp" value="1449504000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\AuthTodo_frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452476736304" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\LearnsiteHelper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1184" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\PhpStorm 10.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1451453140700" />
+              <option name="buildTimestamp" value="1449590400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\ReactTutor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452820224283" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\learnsitebridge">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-143.1184" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\PhpStorm 10.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1451348835807" />
+              <option name="buildTimestamp" value="1449590400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\sidenav">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452559431747" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\uiRouter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452567554553" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\PhpstormProjects\uiRouterTips">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452476289911" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\BuildAppsReactFlux">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1458283128365" />
+              <option name="buildTimestamp" value="1458057600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\ElectronExcelHelper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1458613629156" />
+              <option name="buildTimestamp" value="1458057600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\ExcelHelper">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1459384053368" />
+              <option name="buildTimestamp" value="1459267200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\HelloAngular2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1459385098145" />
+              <option name="buildTimestamp" value="1459267200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\HelloElectron">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.258" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1458607596185" />
+              <option name="buildTimestamp" value="1458057600000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\HelloNodeXlsx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1456115051737" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\ReactFluxExercise">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1457939897343" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\angular2-http-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-145.597" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 2016.1\bin" />
+              <option name="projectOpenTimestamp" value="1459410965230" />
+              <option name="buildTimestamp" value="1459267200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\learning-react-getting-started-and-concepts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452823391050" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\poolApp_frontend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452477548612" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\Web\WebstormProjects\studyangular-front">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452818853719" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:\ZhangChuan\Desktop\temp\public\public">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-143.1559" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="E:\Program Files\JetBrains\WebStorm 11.0.2\bin" />
+              <option name="projectOpenTimestamp" value="1452734616588" />
+              <option name="buildTimestamp" value="1450800000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:\Web\WebstormProjects" />
+  </component>
+</application>
