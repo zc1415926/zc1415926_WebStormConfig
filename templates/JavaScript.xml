@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="con2" value="console.log('$PARAM$');&#10;console.log($PARAM1$);" toReformat="true" toShortenFQNames="true">
+  <template name="con2" value="console.log('$PARAM$');&#10;console.log($PARAM1$);" description="" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="'this_is_a_constant'" alwaysStopAt="true" />
     <variable name="PARAM1" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
